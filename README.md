@@ -12,9 +12,9 @@
 |Item|Description|
 |-|:-------:|
 |Mobo|Erying Interposer M-ATX HM570|
-|CPU|Intel Core i7 11800H|
+|CPU|Intel Core i7 11800H (ES)|
 |Water Cooler|DeepCool LE500|
-|dGPU|AMD Radeon RX 550 4Gb [LEXA]|
+|dGPU|AMD Radeon RX 580 2304SP|
 |Memory|2x 16Gb DDR4|
 |Storage|Kingston NV2, 1TB|
 |Wireless/BT|Fenvi BCM94360NG 2 Antennas|
