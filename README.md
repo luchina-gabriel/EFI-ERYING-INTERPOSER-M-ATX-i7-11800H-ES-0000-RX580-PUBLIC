@@ -1,5 +1,7 @@
 # Cheap Hackintosh - Erying M-ATX Core i7 11800H ES (Engineer Sample) + RX 580 8Gb 2304SP
 
+![About This Mac](https://github.com/luchina-gabriel/EFI-ERYING-INTERPOSER-M-ATX-i7-11800H-ES-0000-RX580-PUBLIC/assets/23700365/7cb526c9-11bf-439a-bc2a-cdeca8357873)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.2.1)
